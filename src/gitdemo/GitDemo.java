@@ -12,7 +12,7 @@ public class GitDemo {
     }
 
     private static void metod() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+        System.out.println("hello");
     }
     
 }
